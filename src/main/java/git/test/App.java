@@ -9,10 +9,10 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        fajnyClass();
+        testFunction();
     }
     
-    public static void fajnyClass() {
+    public static void testFunction() {
     	System.out.println( "New World!" );
     }
 }
